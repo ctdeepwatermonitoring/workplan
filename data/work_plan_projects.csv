@@ -1,0 +1,183 @@
+staSeq,locationName,locationDescription,locationType,ylat,xlong,munName,subBasin,adbSegID,Beach,Climate RMN,Flow Biomonitoring ,Lakes Bioassessment Development,LISS Legacy Pollutants,NLA,Probablistic Monitoring,Sentinel,Temperature,TP Implementation,PFAS
+14129,Beacon Hill Brook,at Andrasko Road,River/Stream,41.4684,-73.0501,BEACON FALLS,6918,CT6918-00_01,0,0,0,0,0,0,0,0,1,0,0
+14147,Broad Brook,upstream USGS gage at Route 191,River/Stream,41.9147,-72.549,EAST WINDSOR,4206,CT4206-00_01,0,0,0,0,0,0,0,0,1,0,0
+14197,Farmington River,adjacent Route 4 at Wood-N-Tap (formerly Apricots Restaurant),River/Stream,41.7508,-72.8717,FARMINGTON,4300,CT4300-00_03,0,0,0,0,0,0,0,0,1,0,0
+14317,Naugatuck River,behind Fire Station,River/Stream,41.4435,-73.0642,BEACON FALLS,6900,CT6900-00_02,0,0,0,0,0,0,0,0,0,1,0
+14392,Pequabuck River,adjacent USGS Gage upstream of Central Avenue,River/Stream,41.6738,-72.8977,BRISTOL,4315,CT4315-00_02,0,0,0,0,0,0,0,0,1,0,0
+14413,Quinnipiac River,downstream small dam behind water company building on Syndall Street,River/Stream,41.528244,-72.856272,MERIDEN,5200,CT5200-00_04,0,0,0,0,0,0,0,0,0,1,0
+14414,Quinnipiac River,adjacent Route 15 USGS gauge,River/Stream,41.4501,-72.8407,WALLINGFORD,5200,CT5200-00_02,0,0,0,0,0,0,0,0,1,0,0
+14441,Salmon River,downstream 0.7 miles RR bridge,River/Stream,41.5742,-72.4294,COLCHESTER,4700,CT4700-00_01,0,0,0,0,0,0,0,1,1,0,0
+14444,Saugatuck River,downstream Route 107 & Route 53 Junction,River/Stream,41.2945,-73.3948,REDDING,7200,CT7200-00_03,0,0,0,0,0,0,0,1,1,0,0
+14450,Shepaug River,downstream 100 meters Wellers Bridge Road (Route 67),River/Stream,41.5489,-73.3308,ROXBURY,6700,CT6700-00_01,0,0,0,0,0,0,0,1,1,0,0
+14451,Shetucket River,downstream Plains Road adjacent to USGS gauge,River/Stream,41.7002,-72.1823,WINDHAM,3800,CT3800-00_05,0,0,0,0,0,0,0,0,1,0,0
+14453,Spruce Brook,upstream RR Bridge (cold spring road),River/Stream,41.4562,-73.0626,NAUGATUCK,6900,CT6900-27_01,0,0,0,0,1,0,0,0,0,0,0
+14456,Steele Brook,parallel North Parking Lot for Municipal stadium,River/Stream,41.5805,-73.0703,WATERBURY,6912,CT6912-00_02,0,0,0,0,0,0,0,0,1,0,0
+14458,Still River,under Route 7 overpass adjacent to Gray's Bridge Road,River/Stream,41.4389,-73.401,BROOKFIELD,6600,CT6600-00_02,0,0,0,0,0,0,0,0,0,1,0
+14461,Sandy Brook (Still River),adjacent USGS gage off Robertsville Road,River/Stream,41.9685,-73.0331,COLEBROOK,4304,CT4304-00_01a,0,0,0,0,0,0,0,1,1,0,0
+14470,Tankerhoosen River,upstream Tunnel Road,River/Stream,41.8272,-72.464,VERNON,4503,CT4503-00_02,0,1,0,0,0,0,0,1,1,0,0
+14523,Burton Brook,upstream STP access Road,River/Stream,41.9667,-73.4341,SALISBURY,6005,CT6005-01_01,0,0,0,0,0,0,0,0,1,0,0
+14527,Silver Lake,south northern island,Lake,41.5808,-72.7723,BERLIN,4601,CT4601-00-1-L2_01,0,0,0,1,0,0,0,0,0,0,0
+14584,Roaring Brook,at Route 32,River/Stream,41.904,-72.2891,WILLINGTON,3104,CT3104-00_01,0,0,0,0,0,0,0,0,1,0,0
+14706,Whitford Brook,upstream North Stonington Rd,River/Stream,41.3928,-71.9604,GROTON,2104,CT2104-00_01,0,0,0,0,0,0,0,0,1,0,0
+14720,Green Fall River,upstream confluence with Wyassup Bk US Clarks Fall Rd.,River/Stream,41.4568,-71.8169,NORTH STONINGTON,1002,CT1002-00_02,0,0,0,0,0,0,0,1,1,0,0
+14730,Bride Brook,RN-156 at Rte.156 crossing,Beach,41.3169,-72.2434,EAST LYME,2206,CT2206-00_01,1,0,0,0,0,0,0,0,0,0,0
+14740,Quaker Brook,Approx. 1/2 mile down Rte. 37 past Great Hollow Nature Preserve & Ecological Research Center,River/Stream,41.512349,-73.52695,NEW FAIRFIELD,8101,CT8101-00_01,0,0,0,0,0,0,0,0,1,0,0
+14788,Allen Brook Pond,WBK-1 left side Swimming area,Beach,41.4261,-72.8367,WALLINGFORD,5207,CT5207-02-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+14789,Allen Brook Pond,WBK-2 right side Swimming area,Beach,41.4259,-72.8364,WALLINGFORD,5207,CT5207-02-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+14800,Steele Brook,upstream Route 6 (Culter Street),River/Stream,41.6105,-73.1153,WATERTOWN,6912,CT6912-00_03,0,0,0,0,0,0,0,0,1,0,0
+14842,Indian Meadow Brook,between Route 44 crossing and end of Loomis Street,River/Stream,41.9305,-73.079,WINCHESTER,4302,CT4302-09_01,0,0,0,0,1,0,0,0,0,0,0
+14866,Stickney Hill Brook,upstream Brown road,River/Stream,41.9833,-72.2179,UNION,3104,CT3104-01_01,0,0,0,0,1,0,0,0,0,0,0
+14880,Sages Ravine Brook,500 feet upstream route 41,River/Stream,42.0495,-73.4301,SALISBURY,6001,CT6001-00_02,0,0,0,0,0,0,0,0,1,0,0
+14882,Bride Brook,RNBB-1 at RR crossing in park,Beach,41.3012,-72.2375,EAST LYME,2206,CT2206-E_01,1,0,0,0,0,0,0,0,0,0,0
+14896,Allen Brook,WBK-3 at inlet Allen Brook Pond in Wharton Brook S.P.,Beach,41.4242,-72.8343,WALLINGFORD,5207,CT5207-02_02,1,0,0,0,0,0,0,0,0,0,0
+15011,Crooked Brook,DS Rte 201,River/Stream,41.5999,-71.9067,GRISWOLD,3600,CT3600-05_01,0,0,0,0,1,0,0,0,0,0,0
+15014,Clark Creek,Upstream RTE 82 Culvert,River/Stream,41.4425,-72.4735,HADDAM,4000,CT4000-54_02,0,0,0,0,1,0,0,0,0,0,0
+15020,Eightmile River,150 meters downstream Confluence with East branch eightmile R. (rte 156),River/Stream,41.43,-72.3392,LYME,4800,CT4800-00_01,0,0,0,0,0,0,0,0,1,0,0
+15068,Pattaconk Reservoir,PR-1 at left beach,Beach,41.4089,-72.526,CHESTER,4017,CT4017-03-1-L3_01,1,0,0,0,0,0,0,0,0,0,0
+15069,Pattaconk Reservoir,PR-2 at right beach,Beach,41.4091,-72.5255,CHESTER,4017,CT4017-03-1-L3_01,1,0,0,0,0,0,0,0,0,0,0
+15092,Fenton River,upstream Old Turnpike Road,River/Stream,41.8335,-72.2429,MANSFIELD,3207,CT3207-00_01c,0,0,0,0,0,0,0,0,1,0,0
+15240,Hubbard Brook,upstream Route 20 on MDC property,River/Stream,42.0356,-72.9384,HARTLAND,4307,CT4307-00_01,0,0,0,0,0,0,0,1,1,0,0
+15244,Cobble Brook,500 m ds of rte 341,River/Stream,41.7217,-73.4572,KENT,6013,CT6013-00_01,0,0,1,0,0,0,0,0,0,0,0
+15304,Eagleville Brook,Upstream NNT to Eagleville Brook Adj. To N. Eagleville Road,River/Stream,41.7938,-72.2752,MANSFIELD,3100,CT3100-19_02,0,0,0,0,0,0,0,0,1,0,0
+15315,Burnham Brook,"Upstream mouth (Within Burnham Brook Preserve, off Dolbia Hill Road)",River/Stream,41.4603,-72.3343,EAST HADDAM,4800,CT4800-08_01,0,0,0,0,0,0,0,1,1,0,0
+15393,Cemetery Brook,DS Taft Pond Road at 4-H Horse camp entrance,River/Stream,41.8818,-72.0283,POMFRET,3710,CT3710-01_01,0,0,0,0,0,0,0,0,1,0,0
+15397,Silvermine River,US Silvermine Elementary School,River/Stream,41.1483,-73.443,NORWALK,7302,CT7302-00_02,0,0,0,0,0,0,0,0,1,0,0
+15499,West Branch Salmon Brook,at Simsbury Road,River/Stream,41.94096,-72.834302,GRANBY,4319,CT4319-00_01b,0,1,0,0,0,0,0,1,1,0,0
+15520,Bonemill Brook,upstream end of driveable road above sweet heart lake,River/Stream,41.925,-72.3162,TOLLAND,3100,CT3100-03_02,0,0,0,0,0,0,0,0,1,0,0
+15530,Weekeepeemee River,DS Jacks Bridge Road at USGS gage,River/Stream,41.5575,-73.2155,WOODBURY,6804,CT6804-00_01,0,0,0,0,0,0,0,1,1,0,0
+15626,Lake Hayward,at deepest part of lake,Lake,41.521,-72.3297,EAST HADDAM,4800,CT4800-04-1-L1_01,0,0,0,1,0,0,0,0,0,0,0
+15680,Beaver Brook,upstream Beaver Brook Road in State Forest,River/Stream,41.9513,-72.9958,BARKHAMSTED,4308,CT4308-15_01,0,0,0,0,0,0,1,0,1,0,0
+15706,Lake Beseck,at Mid lake adjacent to boat ramp,Lake,41.5168,-72.73,MIDDLEFIELD,4607,CT4607-10-1-L1_01,0,0,0,1,0,0,0,0,0,0,0
+15783,Eagleville Brook,upstream Route 32,River/Stream,41.7882,-72.2776,MANSFIELD,3100,CT3100-19_01,0,0,0,0,0,0,0,0,1,0,0
+15792,West Branch Farmington River,at Route 20 (USGS gage) Riverton,River/Stream,41.9602,-73.0178,BARKHAMSTED,4300,CT4300-00_05,0,0,0,0,0,0,0,0,1,0,0
+15795,Farmington River,at Upper end Satan's Kingdom Recreation area parking,River/Stream,41.8579,-72.9583,NEW HARTFORD,4300,CT4300-00_04,0,0,0,0,0,0,0,0,1,0,0
+15796,Pendleton Hill Brook,Upstream Grindstone Hill Road PENDLETON HILL BROOK NEAR CLARKS FALLS,River/Stream,41.4748,-71.8342,NORTH STONINGTON,1001,CT1001-02_01,0,1,0,0,0,0,0,1,2,0,0
+15825,West Branch Farmington River,upstream 500 meters Rte 318 Bridge,River/Stream,41.9168,-72.989,BARKHAMSTED,4300,CT4300-00_04,0,0,0,0,0,0,0,0,1,0,0
+15894,Black Rock Pond,BLKR-1 Left of Lifeguard Chair(s),Beach,41.6501,-73.0977,WATERTOWN,6910,CT6910-14-1-L3_01,1,0,0,0,0,0,0,0,0,0,0
+15895,Black Rock Pond,BLKR-2 Right of Lifeguard Chair(s),Beach,41.6501,-73.0979,WATERTOWN,6910,CT6910-14-1-L3_01,1,0,0,0,0,0,0,0,0,0,0
+15896,Burr Pond,BRRP-1 Left of Lifeguard Chair(s),Beach,41.868717,-73.096066,TORRINGTON,4303,CT4303-02-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15897,Burr Pond,BRRP-2 Right of Lifeguard Chair(s),Beach,41.869078,-73.096058,TORRINGTON,4303,CT4303-02-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15898,Schreeder Pond,CHH-1 Left of Lifeguard Chair(s),Beach,41.3692,-72.589,KILLINGWORTH,5105,CT5105-00-2-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15899,Schreeder Pond,CHH-2 Right of Lifeguard Chair(s),Beach,41.3699,-72.5899,KILLINGWORTH,5105,CT5105-00-2-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15900,Chatfield Hollow Brook,CHHBK-1 upstream side of park access road upstream of confluence with Old Mill Pond,Beach,41.372873,-72.592586,KILLINGWORTH,5105,CT5105-00 NOSEG,1,0,0,0,0,0,0,0,0,0,0
+15902,Day Pond,DYP-1 Left of Lifeguard Chair(s),Beach,41.5579,-72.4196,COLCHESTER,4700,CT4700-02-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15903,Day Pond,DYP-2 Right of Lifeguard Chair(s),Beach,41.5581,-72.42,COLCHESTER,4700,CT4700-02-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15904,Blackledge River,GYC-1 Left of Lifeguard Chair(s),Beach,41.7238,-72.4467,HEBRON,4707,CT4707-00-2-L2_01,1,0,0,0,0,0,0,0,0,0,0
+15905,Blackledge River,GYC-2 Right of Lifeguard Chair(s),Beach,41.7244,-72.4463,HEBRON,4707,CT4707-00-2-L2_01,1,0,0,0,0,0,0,0,0,0,0
+15906,Blackledge River,GYC-3 at foot bridge on trail north of beach area,Beach,41.7264,-72.447,HEBRON,4707,CT4707-00_01,1,0,0,0,0,0,0,0,0,0,0
+15907,Long Island Sound,HSP-E1 In front of Bathouse near Meg's Point,Beach,41.2495,-72.5464,MADISON,0,CT-C2_005,1,0,0,0,0,0,0,0,0,0,0
+15908,Long Island Sound,HSP-E2 In front of East Bathouse,Beach,41.2564,-72.5537,MADISON,0,CT-C2_005,1,0,0,0,0,0,0,0,0,0,0
+15909,Long Island Sound,HSP-FC1 Follow trail behind camp store,Beach,41.2677,-72.5677,MADISON,0,CT-C2_005,1,0,0,0,0,0,0,0,0,0,0
+15911,Long Island Sound,HSP-M In front of Main Pavilion/Park Office,Beach,41.2595,-72.5576,MADISON,0,CT-C2_005,1,0,0,0,0,0,0,0,0,0,0
+15912,Long Island Sound,HSP-W1 Beach access point by camp store,Beach,41.2669,-72.5683,MADISON,0,CT-C2_005,1,0,0,0,0,0,0,0,0,0,0
+15913,Long Island Sound,HSP-W2 In front of West Bathouse,Beach,41.263,-72.5628,MADISON,0,CT-C2_005,1,0,0,0,0,0,0,0,0,0,0
+15914,Pachaug River,HVP-1 Left of Lifeguard Chair(s),Beach,41.6069,-71.9266,GRISWOLD,3600,CT3600-00-3-L8_01,1,0,0,0,0,0,0,0,0,0,0
+15915,Pachaug River,HVP-2 Right of Lifeguard Chair(s),Beach,41.6076,-71.9272,GRISWOLD,3600,CT3600-00-3-L8_01,1,0,0,0,0,0,0,0,0,0,0
+15916,Housatonic River,INWL-1 Left of Lifeguard Chair(s),Beach,41.3443,-73.1249,SHELTON,6000,CT6000-00-5+L4_01,1,0,0,0,0,0,0,0,0,0,0
+15917,Housatonic River,INWL-2 Right of Lifeguard Chair(s),Beach,41.3431,-73.1242,SHELTON,6000,CT6000-00-5+L4_01,1,0,0,0,0,0,0,0,0,0,0
+15922,Lake Waramaug,LKW-1 Left of Lifeguard Chair(s),Beach,41.7079,-73.3832,WARREN,6502,CT6502-00-1-L2_01,1,0,0,0,0,0,0,0,0,0,0
+15923,Lake Waramaug,LKW-2 Right of Lifeguard Chair(s),Beach,41.7078,-73.3832,WARREN,6502,CT6502-00-1-L2_01,1,0,0,0,0,0,0,0,0,0,0
+15924,Mashamoquet Brook diversion Pond,MMB-1 Left of Lifeguard Chair(s),Beach,41.8576,-71.9796,POMFRET,3710,NOSEG,1,0,0,0,0,0,0,0,0,0,0
+15925,Mashamoquet Brook diversion Pond,MMB-2 Right of Lifeguard Chair(s),Beach,41.8575,-71.9788,POMFRET,3710,NOSEG,1,0,0,0,0,0,0,0,0,0,0
+15926,Mashamoquet Brook,MMB-3 In brook upstream of Diversion to swimming pond,Beach,41.858805,-71.982202,POMFRET,3710,CT3710-00_02,1,0,0,0,0,0,0,0,0,0,0
+15927,Mount Tom Pond,MTT-1 Left of Lifeguard Chair(s),Beach,41.6974,-73.2803,WASHINGTON,6705,CT6705-14-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15928,Mount Tom Pond,MTT-2 Right of Lifeguard Chair(s),Beach,41.6976,-73.2801,WASHINGTON,6705,CT6705-14-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15929,Green Fall Pond,PSF-1 Left of Lifeguard Chair(s),Beach,41.5324,-71.8096,VOLUNTOWN,1002,CT1002-00-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15930,Green Fall Pond,PSF-2 Right of Lifeguard Chair(s),Beach,41.535386,-71.81012,VOLUNTOWN,1002,CT1002-00-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15931,Quaddick Reservoir,QDK-1 Left of Lifeguard Chair(s),Beach,41.9536,-71.8154,THOMPSON,3400,CT3400-00-2-L11_01,1,0,0,0,0,0,0,0,0,0,0
+15932,Quaddick Reservoir,QDK-2 Right of Lifeguard Chair(s),Beach,41.9539,-71.8155,THOMPSON,3400,CT3400-00-2-L11_01,1,0,0,0,0,0,0,0,0,0,0
+15935,Long Island Sound,RNSP-E At Brides Brook Mouth,Beach,41.3004,-72.2372,EAST LYME,0,CT-E2_017,1,0,0,0,0,0,0,0,0,0,0
+15936,Long Island Sound,RNSP-EM In Front of East Bathhouse,Beach,41.3004,-72.2388,EAST LYME,0,UNKNOWN,1,0,0,0,0,0,0,0,0,0,0
+15937,Long Island Sound,RNSP-M In between East and West Bathouses,Beach,41.3001,-72.2413,EAST LYME,0,UNKNOWN,1,0,0,0,0,0,0,0,0,0,0
+15938,Long Island Sound,RNSP-W In Front of West Bathhouse,Beach,41.2992,-72.2437,EAST LYME,0,UNKNOWN,1,0,0,0,0,0,0,0,0,0,0
+15940,Long Island Sound,SISP-E Near Jetty East side of beach,Beach,41.1149,-73.3223,WESTPORT,0,CT-W2_009,1,0,0,0,0,0,0,0,0,0,0
+15941,Long Island Sound,SISP-M Near Point Fishing Area Middle of beach,Beach,41.1122,-73.3273,WESTPORT,0,CT-W2_009,1,0,0,0,0,0,0,0,0,0,0
+15942,Long Island Sound,SISP-W Near Bathouses West side of beach,Beach,41.1113,-73.3375,WESTPORT,0,CT-W2_009,1,0,0,0,0,0,0,0,0,0,0
+15943,Squantz Pond,SQPD-1 Left of Lifeguard Chair(s),Beach,41.512,-73.4765,NEW FAIRFIELD,6400,CT6400-03-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15944,Squantz Pond,SQPD-2 Right of Lifeguard Chair(s),Beach,41.5122,-73.476,NEW FAIRFIELD,6400,CT6400-03-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15945,Great Creek,SSGC-1 In Mouth of Great Creek,Beach,41.2,-73.0644,MILFORD,5306,CT-C2_022-SB,1,0,0,0,0,0,0,0,0,0,0
+15946,Great Creek,SSGC-2 Upstream of Fishing Access,Beach,41.2007,-73.0656,MILFORD,5000,CT-C2_022-SB-INTO,1,0,0,0,0,0,0,0,0,0,0
+15947,Long Island Sound,SSSP-E West of Great Creek Mouth,Beach,41.1998,-73.0645,MILFORD,0,CT-C2_022-SB,1,0,0,0,0,0,0,0,0,0,0
+15948,Long Island Sound,SSSP-M In between Tombolo and Great Creek Mouth,Beach,41.1995,-73.0649,MILFORD,0,CT-C2_022-SB,1,0,0,0,0,0,0,0,0,0,0
+15949,Long Island Sound,SSSP-W1 East of Tombolo to Charles Island,Beach,41.1987,-73.0651,MILFORD,0,CT-C2_022-SB,1,0,0,0,0,0,0,0,0,0,0
+15950,Long Island Sound,SSSP-W2 West of Tombolo to Charles Island,Beach,41.197577,-73.065115,MILFORD,0,CT-C2_022-SB,1,0,0,0,0,0,0,0,0,0,0
+15951,Stratton Brook,STRB-1 Left of Lifeguard Chair(s),Beach,41.8655,-72.8353,SIMSBURY,4318,CT4318-03-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15952,Stratton Brook,STRB-2 Right of Lifeguard Chair(s),Beach,41.8653,-72.835,SIMSBURY,4318,CT4318-03-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+15953,Wadsworth Falls State Park Swimming Pond,WWF-1 Left of Lifeguard Chair(s),Beach,41.5355,-72.6855,MIDDLETOWN,4607,CT4607-00-UL_pond_01,1,0,0,0,0,0,0,0,0,0,0
+15954,Wadsworth Falls State Park Swimming Pond,WWF-2 Right of Lifeguard Chair(s),Beach,41.5352,-72.6857,MIDDLETOWN,4607,CT4607-00-UL_pond_01,1,0,0,0,0,0,0,0,0,0,0
+15964,Thompson Brook,at Bike Path Crossing (Old RR grade),River/Stream,41.7681,-72.8497,AVON,4316,CT4316-00_02,0,0,0,0,0,0,0,0,1,0,0
+16008,Gardner Lake,GL-1: 300 ft north Minnie Island State Park (deep hole),Lake,41.5075,-72.222,MONTVILLE,3906,CT3906-00-1-L1_01,0,0,0,1,0,0,0,0,0,0,0
+16012,Uncas Lake,approximately 1500 ft ENE boatramp (center of deep area),Lake,41.3728,-72.3188,LYME,4800,CT4800-16-1-L2_01,0,0,0,1,0,0,0,0,0,0,0
+16028,Carse Brook,between route 7 and mouth,River/Stream,41.8552,-73.3755,SHARON,6009,CT6009-00_01,0,0,0,0,1,0,0,0,0,0,0
+16030,Amos Lake,at deepest point,Lake,41.5162,-71.9747,PRESTON,3002,CT3002-02-1-L2_01,0,0,0,1,0,0,0,0,0,0,0
+16035,Nickelmine Brook,upstream pothier Road,River/Stream,41.8342,-73.1786,TORRINGTON,6903,CT6903-00_02,0,0,0,0,1,0,0,0,0,0,0
+16038,Deep Brook,at Baldwin Road,River/Stream,41.4029,-73.3079,NEWTOWN,6019,CT6019-00_01,0,0,0,0,0,0,1,0,1,0,0
+16046,Chidsey Brook,adjacent Avon Water company Well #3 (above Avon HS),River/Stream,41.7848,-72.8624,AVON,4316,CT4316-01_01,0,0,1,0,0,0,0,0,0,0,0
+16066,Farmington River,between Route 189 and old bridge tressells (in town park),River/Stream,41.914,-72.765,SIMSBURY,4300,CT4300-00_02,0,0,0,0,0,0,0,0,1,0,0
+16103,Guinea Brook,downstream West Woods Road #2 at USGS gage,River/Stream,41.823994,-73.430092,SHARON,6011,NOSEG,0,0,0,0,1,0,0,0,0,0,0
+16108,Knowlton Brook,Between Cushman Rd and confluence with Squaw Hollow Brook,River/Stream,41.8492,-72.1783,ASHFORD,3205,CT3205-01_02,0,0,0,0,0,0,0,0,1,0,0
+16110,Mott Hill Brook,off Hunt Ridge Drive at Private Drive for houses # 107-109,River/Stream,41.6615,-72.5365,GLASTONBURY,4008,CT4008-03_01,0,0,0,0,0,0,0,1,1,0,0
+16119,Day Pond Brook,at mouth,River/Stream,41.5623,-72.4338,COLCHESTER,4700,CT4700-02_01,0,0,0,0,1,0,0,1,0,0,0
+16120,Elbow Brook,at Route 196 and Wopowaug Road,River/Stream,41.5211,-72.4869,EAST HAMPTON,4700,CT4700-09_01,0,0,0,0,1,0,0,0,0,0,0
+16122,Early Brook,at Haywardville Road (East Haddam Fish & Game Club Property),River/Stream,41.4978,-72.3435,EAST HADDAM,4800,CT4800-01_01,0,0,0,0,1,0,0,0,0,0,0
+16124,Flat Brook,at Lower Barrack Road,River/Stream,41.938249,-73.321123,CANAAN,6200,CT6200-05_01,0,0,0,0,1,0,0,1,0,0,0
+16128,Stonehouse Brook,off old trail  downstream Palmer Road,River/Stream,41.7812,-72.1509,CHAPLIN,3204,CT3204-00_01,0,0,0,0,1,0,0,1,0,0,0
+16139,Brown Brook,at Route 63,River/Stream,41.9267,-73.2799,CANAAN,6201,CT6201-00_01,0,1,0,0,0,0,0,1,2,0,0
+16150,Halls Pond,"HP-1, at deepest part of lake, SITE Z NLA 2012, 2017",Lake,41.843286,-72.108528,EASTFORD,3200,CT3200-01-1-L1_01,0,0,0,1,0,0,0,0,0,0,0
+16184,Roseland Lake,RL-1: Site Z NLA2007 and NLA2012 at deepest part of lake,Lake,41.95,-71.951,WOODSTOCK,3708,Needs,0,0,0,1,0,0,0,0,0,0,0
+16191,Hall Meadow Brook,adjacent to Rte 272 across from South Norfolk lumber company,River/Stream,41.9173,-73.1949,NORFOLK,6901,CT6901-00_03,0,0,0,0,1,0,0,0,0,0,0
+16335,Nonewaug River (Nonnewaug River),at USGS gage adjacent to route 6,River/Stream,41.5783,-73.1745,WOODBURY,6802,CT6802-00_01,0,0,0,0,0,0,0,1,1,0,0
+16354,Gardner Lake,GRD-1 left side of beach area,Beach,41.501339,-72.225086,SALEM,3906,CT3906-00-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+16355,Gardner Lake,GRD-2 right side of beach area,Beach,41.501538,-72.224356,SALEM,3906,CT3906-00-1-L1_01,1,0,0,0,0,0,0,0,0,0,0
+16370,Bunnell Brook,upstream diversion for swimming area at recreation area at vineyard rd and clear brook rd,River/Stream,41.7807,-72.963,BURLINGTON,4311,CT4311-00_01,0,0,0,0,0,0,0,0,1,0,0
+16387,Hurricane Brook,adjacent to Hurricane Brook road,River/Stream,42.033,-72.9207,HARTLAND,4308,CT4308-01_01,0,0,0,0,0,0,0,0,1,0,0
+16416,Delphi Brook,adjacent  Delphi Road,River/Stream,42.0211,-72.2517,STAFFORD,3103,CT3103-01_01,0,0,0,0,1,0,0,0,0,0,0
+16431,Sprain Brook,downstream Route 47 adjacent to Papermill Road,River/Stream,41.5696,-73.2259,WOODBURY,6803,CT6803-00_01,0,0,0,0,0,0,0,0,1,0,0
+16583,Comstock Brook,Above Nob Hill Rd,River/Stream,41.2125,-73.4622,WILTON,7301,CT7301-00_02,0,0,1,0,0,0,0,0,0,0,0
+16708,Greenwood Brook,200 M DS of Rte 37,River/Stream,41.5694,-73.5072,SHERMAN,6401,1/1/6401,0,0,0,0,0,0,0,0,1,0,0
+16933,Owens Brook,"Parallel to Owens Bk Rd, 0.25 miles from JCTRte 10",River/Stream,41.8878,-72.8039,SIMSBURY,4300,CT4300-39_01,0,0,0,0,0,0,0,0,1,0,0
+17339,Aggard Brook,above Delphi Rd,River/Stream,42.0235,-72.2507,STAFFORD,3103,Needs,0,0,0,0,1,0,0,0,0,0,0
+17365,Farmington River,just above Burlington Brook,River/Stream,41.7842,-72.9234,BURLINGTON,4300,CT4300-00_03,0,0,0,0,0,0,0,0,1,0,0
+17604,Bride Brook,RNBB-2 at upper crabbing access on entry to parking area,Beach,41.30268,-72.2402,EAST LYME,2206,CT-E1_022,1,0,0,0,0,0,0,0,0,0,0
+17750,Coginchaug River,WWF-IN Just downstream of inlet pipe,Beach,41.534049,-72.686571,MIDDLEFIELD,4607,CT4607-00_04,1,0,0,0,0,0,0,0,0,0,0
+17852,Shady Oak School House Brook,US KELLY RD crossing,River/Stream,41.89866,-71.80928,KILLINGLY,3403,CT3403-05_01,0,0,0,0,1,0,0,0,0,0,0
+17981,Judd Brook,OLD COLCHESTER RD/OLD HEBRON RD,River/Stream,41.5992,-72.3522,COLCHESTER,4702,CT4702-00_01,0,0,0,0,0,0,0,0,1,0,0
+18149,Bashan Lake,BL-1: Deepest Point In Lake,Lake,41.490909,-72.411045,EAST HADDAM,4710,NA,0,0,0,1,0,0,0,0,0,0,0
+18795,Mattabesset River,upstream of Glen Street,River/Stream,41.62421,-72.78669,BERLIN,4600,NA,0,0,0,0,0,0,1,0,1,0,0
+18950,Bantam Lake (Litchfield/Morris),BL-1 at deepest part of lake,Lake,41.69983,-73.22082,MORRIS,6705,CT6705-00-3-L3_01,0,0,0,1,0,0,0,0,0,0,0
+19091,Coppermine Brook,US of Artisan St Bridge Crossing,River/Stream,41.682615,-72.910495,BRISTOL,4314,NA,0,0,1,0,0,0,0,0,0,0,0
+19097,Branch Brook,adjacent Reynolds Br Rd,River/Stream,41.649751,-73.088586,THOMASTON,6910,NA,0,0,1,0,0,0,0,0,0,0,0
+19141,Mill River,Cook Hill Rd Crossing,River/Stream,41.467004,-72.896607,CHESHIRE,5302,NA,0,0,1,0,0,0,0,0,0,0,0
+19163,Morgan Brook,Adj  Rte 44 below store,River/Stream,41.902851,-72.995379,BARKHAMSTED,4305,NA,0,0,0,0,0,0,1,0,1,0,0
+19249,Lake Hayward Brook,DS of Salem RD,River/Stream,41.497476,-72.325267,SALEM,4802,NA,0,0,0,0,0,0,1,0,1,0,0
+19343,Mohawk Pond,center of lake,Lake,41.811,-73.293,CORNWALL,6700,NA,0,0,0,1,0,0,0,0,0,0,0
+19359,Rogers Lake,deep hole,Lake,41.36428,-72.30144,OLD LYME,4020,NA,0,0,0,1,0,0,0,0,0,0,0
+19588,Roaring Brook,US of Weir Road,River/Stream,41.704831,-72.518016,GLASTONBURY,4009,CT4009-00_02,0,0,0,0,0,0,0,0,1,0,0
+19940,Gunn Brook,Adjacent State Hwy 45 in Cornwall,River/Stream,41.800009,-73.37902,CORNWALL,6000,CT6000-14_01,0,0,0,0,1,0,0,0,0,0,0
+20122,Deming Brook,850m upstream Under Mountain Road,River/Stream,41.970555,-73.294686,CANAAN,6202,CT6202-04_01,0,0,0,0,0,0,0,0,1,0,0
+20123,Labonte Brook,Adjacent Babcock Road,River/Stream,41.90359,-72.3077,TOLLAND,3100,CT3100-05_01,0,0,0,0,1,0,0,0,0,0,0
+20321,Slater Brook,475 m US of Slater Hill Rd,River/Stream,41.82979,-71.82418,KILLINGLY,3404,CT3404-06_01,0,0,0,0,0,0,0,0,1,0,0
+20457,West River,50m upstream from Hoadley Road,River/Stream,41.425143,-72.96487,BETHANY,5305,CT5305-01_01,0,0,0,0,0,0,0,0,1,0,0
+20458,Muddy River,315m upstream of Woodhouse Ave,River/Stream,41.418218,-72.79924,WALLINGFORD,5208,CT5208-00_02a,0,0,0,0,0,0,0,0,1,0,0
+20459,Wolf Pit Brook,290m downstream of Wolfpits Road,River/Stream,41.366714,-73.384368,BETHEL,6605,CT6605-01_02,0,0,0,0,0,0,0,0,1,0,0
+20461,Wigwam Brook,190m upstream of Blakeslee Road,River/Stream,41.708857,-73.149173,LITCHFIELD,6910,NA,0,0,0,0,0,0,1,0,1,0,0
+20524,Stony Brook,500m NW from Lakewood Drive cul-de-sac,River/Stream,41.40516,-72.66942,MADISON,5108,CT5108-03_01,0,0,0,0,0,0,0,0,1,0,0
+20525,Hart Brook,Access via Torrington Water Co. dirt road at end of Rock House Road,River/Stream,41.885113,-73.19528,GOSHEN,6902,NA,0,0,0,0,0,0,1,0,1,0,0
+20632,Roaring Brook,Above confluence with Blackberry River; on Laurelbrook Farm property,River/Stream,42.00117,-73.23864,NORFOLK,6100,NA,0,0,0,0,0,0,1,0,1,0,0
+20633,"Little River, NNT to",US of Sand Hill Rd,River/Stream,41.75645,-72.04591,HAMPTON,3805,NA,0,0,0,0,0,0,1,0,1,0,0
+20634,Spoon Shop Brook,US of Maple Ave,River/Stream,41.53222,-72.75893,MERIDEN,5206,NA,0,0,0,0,0,0,1,0,1,0,0
+20635,Browns Brook,DS of Governors Ln,River/Stream,41.165218,-73.286969,FAIRFIELD,7108,NA,0,0,0,0,0,0,1,0,1,0,0
+20636,"Nonewaug River, NNT to",DS of Magnolia Hill Rd,River/Stream,41.6344,-73.16997,BETHLEHEM,6802,NA,0,0,0,0,0,0,1,0,1,0,0
+20637,"Poland River, NNT to",US of Poland Brook Rd,River/Stream,41.6942,-73.00677,PLYMOUTH,4313,NA,0,0,0,0,0,0,1,0,1,0,0
+20638,Choggam Brook,US of Skiff Mountain Rd,River/Stream,41.74825,-73.47157,KENT,6000,NA,0,0,0,0,0,0,1,0,1,0,0
+20639,Millard Brook,Behind house #94 and #120 on Whitcomb Hill Rd,River/Stream,41.788148,-73.384467,CORNWALL,6000,NA,0,0,0,0,0,0,1,0,1,0,0
+20640,Foot Sawmill Brook,Behind house #40 on Stony Brook Dr,River/Stream,41.680553,-72.452254,MARLBOROUGH,4707,NA,0,0,0,0,0,0,1,0,1,0,0
+20641,Dickinson Creek,NW from end of Orchard Farms Rd (house #43),River/Stream,41.57764,-72.45319,COLCHESTER,4708,NA,0,0,0,0,0,0,1,0,1,0,0
+15624,Lake Chaffee,at deepest part of lake,Lake,41.9394,-72.1953,ASHFORD,3206,CT3206-00-1-L2_01,0,0,0,1,0,1,0,0,0,0,0
+16154,Wononscopomuc Lake,at deepest part of lake,Lake,41.9553,-73.4448,SALISBURY,6005,CT6005-00-1-L1_01,0,0,0,1,0,1,0,0,0,0,0
+16188,Lake Zoar,deepest part near center of lake about south of Rte 84 crossing,Lake,41.387,-73.176,NEWTOWN,6000,Needs,0,0,0,1,0,1,0,0,0,0,1
+19304,Billings Lake,deep hole,Lake,41.50885,-71.87383,NORTH STONINGTON,3605,NA,0,0,0,1,0,1,0,0,0,0,1
+19803,Halls Pond (Willington),"HPW-1, at deepest part of lake, parallel to fishing club boatramp, SITE Z NLA2017",Lake,41.857094,-72.298297,WILLINGTON,3100,NA,0,0,0,1,0,1,0,0,0,0,1
+Needs1,Crystal Lake (Winchester),NA,Lake,41.92228765,-73.10148462,WINCHESTER,NA,NA,0,0,0,1,0,1,0,0,0,0,1
+Needs2,Unknown Lake in State Forest,NA,Lake,41.4450951,-72.62131152,NA,NA,NA,0,0,0,1,0,1,0,0,0,0,1
+Needs3,Whites Pond,NA,Lake,41.99541651,-72.72680584,NA,NA,NA,0,0,0,1,0,1,0,0,0,0,1
