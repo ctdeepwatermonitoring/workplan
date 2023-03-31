@@ -15,6 +15,8 @@ wp_rs[is.na(wp_rs)] <- 0
 
 wp_merge <- merge(wp_rs, wp[,c(1:5,9)],by.x = 'staSeq')
 
+write.csv(wp_merge, 'data/2023/draft_workplan_map_2023.csv', row.names=FALSE)
+
 
 
 
