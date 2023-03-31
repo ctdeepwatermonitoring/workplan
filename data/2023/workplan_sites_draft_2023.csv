@@ -1,0 +1,228 @@
+staSeq,type,rationale
+18148,Lake,Lake Bioassessment Development
+20842,Lake,Lake Bioassessment Development
+18153,Lake,Lake Bioassessment Development
+18154,Lake,Lake Bioassessment Development
+16007,Lake,Lake Bioassessment Development
+18156,Lake,Lake Bioassessment Development
+20230,Lake,Lake Bioassessment Development
+15627,Lake,Lake Bioassessment Development
+18953,Lake,Lake Bioassessment Development
+18947,Lake,Lake Bioassessment Development
+15085,Lake,Lake Bioassessment Development
+18650,Lake,Lake Bioassessment Development
+18934,Lake,Lake Bioassessment Development
+20053,Lake,Lake Bioassessment Development
+16010,Lake,Lake Bioassessment Development
+19356,Lake,Lake Bioassessment Development
+16165,Lake,Lake Bioassessment Development
+19337,Lake,Lake Bioassessment Development
+15635,Lake,Lake Bioassessment Development
+18150,Lake,Lake Bioassessment Development
+14730,Beach,Bathing Beach Monitoring
+14788,Beach,Bathing Beach Monitoring
+14789,Beach,Bathing Beach Monitoring
+14882,Beach,Bathing Beach Monitoring
+14896,Beach,Bathing Beach Monitoring
+15068,Beach,Bathing Beach Monitoring
+15069,Beach,Bathing Beach Monitoring
+15894,Beach,Bathing Beach Monitoring
+15895,Beach,Bathing Beach Monitoring
+15896,Beach,Bathing Beach Monitoring
+15897,Beach,Bathing Beach Monitoring
+15898,Beach,Bathing Beach Monitoring
+15899,Beach,Bathing Beach Monitoring
+15900,Beach,Bathing Beach Monitoring
+15902,Beach,Bathing Beach Monitoring
+15903,Beach,Bathing Beach Monitoring
+15904,Beach,Bathing Beach Monitoring
+15905,Beach,Bathing Beach Monitoring
+15906,Beach,Bathing Beach Monitoring
+15907,Beach,Bathing Beach Monitoring
+15908,Beach,Bathing Beach Monitoring
+15909,Beach,Bathing Beach Monitoring
+15911,Beach,Bathing Beach Monitoring
+15912,Beach,Bathing Beach Monitoring
+15913,Beach,Bathing Beach Monitoring
+15914,Beach,Bathing Beach Monitoring
+15915,Beach,Bathing Beach Monitoring
+15916,Beach,Bathing Beach Monitoring
+15917,Beach,Bathing Beach Monitoring
+15922,Beach,Bathing Beach Monitoring
+15923,Beach,Bathing Beach Monitoring
+15924,Beach,Bathing Beach Monitoring
+15925,Beach,Bathing Beach Monitoring
+15926,Beach,Bathing Beach Monitoring
+15927,Beach,Bathing Beach Monitoring
+15928,Beach,Bathing Beach Monitoring
+15929,Beach,Bathing Beach Monitoring
+15930,Beach,Bathing Beach Monitoring
+15931,Beach,Bathing Beach Monitoring
+15932,Beach,Bathing Beach Monitoring
+15935,Beach,Bathing Beach Monitoring
+15936,Beach,Bathing Beach Monitoring
+15937,Beach,Bathing Beach Monitoring
+15938,Beach,Bathing Beach Monitoring
+15940,Beach,Bathing Beach Monitoring
+15941,Beach,Bathing Beach Monitoring
+15942,Beach,Bathing Beach Monitoring
+15943,Beach,Bathing Beach Monitoring
+15944,Beach,Bathing Beach Monitoring
+15945,Beach,Bathing Beach Monitoring
+15946,Beach,Bathing Beach Monitoring
+15947,Beach,Bathing Beach Monitoring
+15948,Beach,Bathing Beach Monitoring
+15949,Beach,Bathing Beach Monitoring
+15950,Beach,Bathing Beach Monitoring
+15951,Beach,Bathing Beach Monitoring
+15952,Beach,Bathing Beach Monitoring
+15953,Beach,Bathing Beach Monitoring
+15954,Beach,Bathing Beach Monitoring
+16354,Beach,Bathing Beach Monitoring
+16355,Beach,Bathing Beach Monitoring
+17604,Beach,Bathing Beach Monitoring
+17750,Beach,Bathing Beach Monitoring
+15680,Temperature,Headwater Monitoring
+20778,Temperature,Probabilistic Monitoring
+20779,Temperature,Probabilistic Monitoring
+20780,Temperature,Probabilistic Monitoring
+20781,Temperature,Probabilistic Monitoring
+20782,Temperature,Probabilistic Monitoring
+20783,Temperature,Probabilistic Monitoring
+16066,Temperature,Trend Monitoring Network
+14740,Temperature,Trend Monitoring Network
+14456,Temperature,Trend Monitoring Network
+15304,Temperature,Trend Monitoring Network
+14414,Temperature,Trend Monitoring Network
+15092,Temperature,Trend Monitoring Network
+14451,Temperature,Trend Monitoring Network
+14706,Temperature,Trend Monitoring Network
+15520,Temperature,Trend Monitoring Network
+16139,Temperature,Trend Monitoring Network
+14441,Temperature,Trend Monitoring Network
+15240,Temperature,Trend Monitoring Network
+14392,Temperature,Trend Monitoring Network
+15397,Temperature,Trend Monitoring Network
+15020,Temperature,Trend Monitoring Network
+14523,Temperature,Trend Monitoring Network
+14880,Temperature,Trend Monitoring Network
+16387,Temperature,Trend Monitoring Network
+15499,Temperature,Trend Monitoring Network
+15795,Temperature,Trend Monitoring Network
+14461,Temperature,Trend Monitoring Network
+15792,Temperature,Trend Monitoring Network
+15825,Temperature,Trend Monitoring Network
+14147,Temperature,Trend Monitoring Network
+14584,Temperature,Trend Monitoring Network
+14470,Temperature,Trend Monitoring Network
+15783,Temperature,Trend Monitoring Network
+14720,Temperature,Trend Monitoring Network
+15796,Temperature,Trend Monitoring Network
+15315,Temperature,Trend Monitoring Network
+14129,Temperature,Trend Monitoring Network
+14444,Temperature,Trend Monitoring Network
+14450,Temperature,Trend Monitoring Network
+16335,Temperature,Trend Monitoring Network
+16431,Temperature,Trend Monitoring Network
+15530,Temperature,Trend Monitoring Network
+14800,Temperature,Trend Monitoring Network
+16370,Temperature,Trend Monitoring Network
+14197,Temperature,Trend Monitoring Network
+17365,Temperature,Trend Monitoring Network
+15964,Temperature,Trend Monitoring Network
+16110,Temperature,Trend Monitoring Network
+20801,Temperature,Stressor Investigation
+20801,Conductivity,Stressor Investigation
+14147,Conductivity,Trend Monitoring Network
+16139,Conductivity,Trend Monitoring Network
+15783,Conductivity,Trend Monitoring Network
+15304,Conductivity,Trend Monitoring Network
+14470,Conductivity,Trend Monitoring Network
+15796,Conductivity,Trend Monitoring Network
+15499,Conductivity,Trend Monitoring Network
+17534,Trail Cam,Flow Stressor Monitoring
+16139,Trail Cam,Trend Monitoring Network
+19657,Trail Cam,Trend Monitoring Network
+20153,Trail Cam,Trend Monitoring Network
+15014,Trail Cam,Headwater Monitoring
+17013,Trail Cam,Headwater Monitoring
+16522,Trail Cam,Headwater Monitoring
+19838,Trail Cam,Headwater Monitoring
+18006,Trail Cam,Headwater Monitoring
+15244,Trail Cam,Flow Stressor Monitoring
+16583,Trail Cam,Flow Stressor Monitoring
+19022,Trail Cam,Flow Stressor Monitoring
+18720,Trail Cam,Trend Monitoring Network
+16225,Trail Cam,Flow Stressor Monitoring
+15091,Trail Cam,Flow Implementation Monitoring
+15240,Trail Cam,Trend Monitoring Network
+15801,Trail Cam,Trend Monitoring Network
+15796,Trail Cam,Trend Monitoring Network
+20059,Trail Cam,Flow Stressor Monitoring Reference
+17608,Trail Cam,Flow Stressor Monitoring
+15499,Trail Cam,Trend Monitoring Network
+16057,Trail Cam,Pre Streamflow Release Monitoring
+16278,Trail Cam,Pre Streamflow Release Monitoring
+17010,Trail Cam,Pre Streamflow Release Monitoring
+16606,Trail Cam,Pre Streamflow Release Monitoring
+19704,Trail Cam,Pre Streamflow Release Monitoring
+19468,Trail Cam,Pre Streamflow Release Monitoring
+16276,Trail Cam,Pre Streamflow Release Monitoring
+14164,Trail Cam,Pre Streamflow Release Monitoring
+14289,Trail Cam,Streamflow Release Monitoring
+16285,Trail Cam,IWQR Flow Impaired Monitoring
+15757,Trail Cam,IWQR Flow Impaired Monitoring
+19012,Trail Cam,IWQR Flow Impaired Monitoring
+15854,Trail Cam,IWQR Flow Impaired Monitoring
+20623,Trail Cam,IWQR Flow Impaired Monitoring
+14163,Trail Cam,IWQR Flow Impaired Monitoring
+15014,Temperature,Headwater Monitoring
+17013,Temperature,Headwater Monitoring
+16522,Temperature,Headwater Monitoring
+19838,Temperature,Headwater Monitoring
+18006,Temperature,Headwater Monitoring
+16057,Temperature,Pre Streamflow Release Monitoring
+16278,Temperature,Pre Streamflow Release Monitoring
+17010,Temperature,Pre Streamflow Release Monitoring
+16606,Temperature,Pre Streamflow Release Monitoring
+19704,Temperature,Pre Streamflow Release Monitoring
+19468,Temperature,Pre Streamflow Release Monitoring
+16276,Temperature,Pre Streamflow Release Monitoring
+14164,Temperature,Pre Streamflow Release Monitoring
+20778,Biological,Probabilistic Monitoring
+20779,Biological,Probabilistic Monitoring
+20780,Biological,Probabilistic Monitoring
+20781,Biological,Probabilistic Monitoring
+20782,Biological,Probabilistic Monitoring
+20783,Biological,Probabilistic Monitoring
+15014,Biological,Headwater Monitoring
+17013,Biological,Headwater Monitoring
+16522,Biological,Headwater Monitoring
+19838,Biological,Headwater Monitoring
+18006,Biological,Headwater Monitoring
+16057,Biological,Pre Streamflow Release Monitoring
+16278,Biological,Pre Streamflow Release Monitoring
+17010,Biological,Pre Streamflow Release Monitoring
+16606,Biological,Pre Streamflow Release Monitoring
+19704,Biological,Pre Streamflow Release Monitoring
+19468,Biological,Pre Streamflow Release Monitoring
+16276,Biological,Pre Streamflow Release Monitoring
+14164,Biological,Pre Streamflow Release Monitoring
+15680,Biological,Headwater Monitoring
+14391,Biological,Pre Dam Removal Monitoring
+14391,Temperature,Pre Dam Removal Monitoring
+14392,Biological,TP Implementation Monitoring
+14568,Biological,Pre Dam Removal Monitoring
+14568,Temperature,Pre Dam Removal Monitoring
+16139,Biological,Trend Monitoring Network
+15796,Biological,Trend Monitoring Network
+15499,Biological,Trend Monitoring Network
+14461,Biological,TP Implementation Monitoring
+14441,Biological,Trend Monitoring Network
+15240,Biological,Trend Monitoring Network
+14147,Biological,Trend Monitoring Network
+14470,Biological,Trend Monitoring Network
+14444,Biological,Trend Monitoring Network
+14450,Biological,Trend Monitoring Network
+14442,Biological,Trend Monitoring Network
+14456,Biological,Impaired Water Monitoring

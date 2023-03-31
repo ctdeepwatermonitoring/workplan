@@ -36,7 +36,7 @@ map.on('load', () => {
     d3.json('./data/wpSites.geojson').then((data) => {
         // when loaded
 
-        const wpData = d3.json('./data/wpSites.geojson');
+        const wpData = d3.json('./data/wpSites23.geojson');
         const stateBoundaryData = d3.json('./data/ctStateBoundary.geojson');
 
         Promise.all([wpData,stateBoundaryData]).then(addLayer);
@@ -62,7 +62,7 @@ function addLayer(data){
     });
 
     for (const feature of wpSites.features) {
-        const lType = feature.properties.locationType;
+        const lType = feature.properties.type;
         const layerID = `poi-${lType}`;
 
         // Add a layer for this symbol type if it hasn't been added already.
@@ -79,7 +79,7 @@ function addLayer(data){
                 'circle-color': '#70a494',
                 'circle-opacity': 0.6
             },
-            'filter': ['==','locationType', lType]
+            'filter': ['==','type', lType]
             });
             
             // Add checkbox and label elements for the layer.
@@ -137,15 +137,11 @@ function addPopup(layer){
                             e.features[0].properties.staSeq+ ")</b></br>"+
                             "<b>Project - No/Yes (0/1): </b></br>" +
                             "Beach: "+ e.features[0].properties.Beach +
-                            "</br>RMN: "+ e.features[0].properties['Climate.RMN'] +
-                            "</br>Flow Bio: "+ e.features[0].properties['Flow.Biomonitoring'] +
-                            "</br>Lakes Bio: "+ e.features[0].properties['Lakes.Bioassessment.Development'] +
-                            "</br>Legacy: "+ e.features[0].properties['LISS.Legacy.Pollutants'] +
-                            "</br>NLA: "+ e.features[0].properties['NLA'] +
-                            "</br>ProbMon: "+ e.features[0].properties['Probablistic.Monitoring'] +
-                            "</br>Sentinel: "+ e.features[0].properties['Sentinel'] +
-                            "</br>Temp: "+ e.features[0].properties['Temperature'] +
-                            "</br>TP: "+ e.features[0].properties['TP.Implementation'];
+                            "</br>Lake Bioassessment: "+ e.features[0].properties['Lake'] +
+                            "</br>Trail Cam Flow: "+ e.features[0].properties['Trail Cam'] +
+                            "</br>Temperature: "+ e.features[0].properties['Temperature'] +
+                            "</br>Conductivity: "+ e.features[0].properties['Conductivity'] +
+                            "</br>Biological: "+ e.features[0].properties['Biological'];
 
         // When a hover event occurs on a feature,
         // open a popup at the location of the hover, with description
