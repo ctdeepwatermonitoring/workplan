@@ -33,10 +33,10 @@ const map = new mapboxgl.Map({
 map.on('load', () => {
 
     // request our GEOJSON data
-    d3.json('./data/wpSites.geojson').then((data) => {
+    d3.json('./data/wpSites23_042023.geojson').then((data) => {
         // when loaded
 
-        const wpData = d3.json('./data/wpSites23.geojson');
+        const wpData = d3.json('./data/wpSites23_042023.geojson');
         const stateBoundaryData = d3.json('./data/ctStateBoundary.geojson');
 
         Promise.all([wpData,stateBoundaryData]).then(addLayer);
@@ -141,7 +141,9 @@ function addPopup(layer){
                             "</br>Trail Cam Flow: "+ e.features[0].properties['Trail Cam'] +
                             "</br>Temperature: "+ e.features[0].properties['Temperature'] +
                             "</br>Conductivity: "+ e.features[0].properties['Conductivity'] +
-                            "</br>Biological: "+ e.features[0].properties['Biological'];
+                            "</br>Stream Bio: "+ e.features[0].properties['Stream Bio'] +
+                            "</br>Stream Chem Only: "+ e.features[0].properties['Stream Chem Only'] +
+                            "</br>NRSA: "+ e.features[0].properties['NRSA'];
 
         // When a hover event occurs on a feature,
         // open a popup at the location of the hover, with description
