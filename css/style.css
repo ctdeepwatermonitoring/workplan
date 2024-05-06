@@ -1,8 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-
+    font-family: 'Public Sans', sans-serif;
 }
 
 #map {
@@ -14,22 +13,23 @@ body {
 
 .sitePopup .mapboxgl-popup-content{
     max-width: 400px;
-    font: 14px/30px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font: 14px/30px 'Public Sans', sans-serif;
     background-color: #333333;
-    color: whitesmoke;
+    color: white;
 }
 
 h1 {
     font-size: 20px;
     line-height: 30px;
-    color: whitesmoke;
+    color: white;
+    padding-top: 5%;
 }
 
 h2 {
     font-size: 14px;
     line-height: 20px;
     margin-bottom: 10px;
-    color: whitesmoke;
+    color: white;
 }
 
 a {
@@ -43,12 +43,13 @@ a {
     margin: 10px;
     padding: 10px 20px;
     background-color: #333333;
-    color: whitesmoke;
+    color: white;
+    opacity: 90%;
 }
 
 .filter-group {
-    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    font-weight: 600;
+    font: 15px/20px 'Public Sans', sans-serif;
+    font-weight: 400;
     position: absolute;
     top: 10px;
     right: 10px;
@@ -56,6 +57,7 @@ a {
     border-radius: 3px;
     width: 120px;
     color: #fff;
+    opacity: 90%;
     }
      
     .filter-group input[type='checkbox']:first-child + label {

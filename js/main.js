@@ -32,7 +32,7 @@ const map = new mapboxgl.Map({
 
 map.on('load', () => {
 
-    // request our GEOJSON data
+    // request GEOJSON data
     d3.json('./data/wpSites24.geojson').then((data) => {
         // when loaded
 
@@ -77,7 +77,7 @@ function addLayer(data){
                 'circle-stroke-color': '#FDB515',
                 'circle-stroke-width': 1,
                 'circle-color': '#0D2D6C',
-                'circle-opacity': 0.6
+                'circle-opacity': 1
             },
             'filter': ['==','type', lType]
             });
@@ -132,16 +132,19 @@ function addPopup(layer){
     });
 
     map.on('mousemove', layer, function(e) {
+        console.log(e.features[0]);
 
         const popupInfo =   "<b>" + e.features[0].properties.locationName +" ("+
                             e.features[0].properties.staSeq+ ")</b></br>"+
-                            "<b>Project - No/Yes (0/1): </b></br>" +
-                            "Beach: "+ e.features[0].properties.Beach +
-                            "</br>Lake Bioassessment: "+ e.features[0].properties['Lake'] +
-                            "</br>Trail Cam Flow: "+ e.features[0].properties['Trail Cam'] +
-                            "</br>Temperature: "+ e.features[0].properties['Temperature'] +
+                            "<b>Sampled for Project</b>" +
+                            "</br><b>No/Yes (0/1):</b>" +
+                            "</br>Beach: "+ e.features[0].properties['Beach'] +
+                            "</br>Chem Only: "+ e.features[0].properties['Chem Only'] +
                             "</br>Conductivity: "+ e.features[0].properties['Conductivity'] +
-                            "</br>Stream Bio: "+ e.features[0].properties['Stream Bio'];
+                            "</br>Lake: "+ e.features[0].properties['Lake'] +
+                            "</br>Stream Bio: "+ e.features[0].properties['Stream Bio'] +
+                            "</br>Temperature: "+ e.features[0].properties['Temperature'] +
+                            "</br>Trail Cam: "+ e.features[0].properties['Trail Cam'];
 
         // When a hover event occurs on a feature,
         // open a popup at the location of the hover, with description
