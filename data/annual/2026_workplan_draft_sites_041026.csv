@@ -1,0 +1,294 @@
+staSeq,locationName,ylat,xlong,type
+14730,Bride Brook,41.3169,-72.2434,Beach
+14788,Allen Brook Pond,41.4261,-72.8367,Beach
+14789,Allen Brook Pond,41.4259,-72.8364,Beach
+14882,Bride Brook,41.3012,-72.2375,Beach
+14896,Allen Brook,41.4242,-72.8343,Beach
+15068,Pattaconk Reservoir,41.4089,-72.526,Beach
+15069,Pattaconk Reservoir,41.4091,-72.5255,Beach
+15894,Black Rock Pond,41.6501,-73.0977,Beach
+15895,Black Rock Pond,41.6501,-73.0979,Beach
+15896,Burr Pond,41.868717,-73.096066,Beach
+15897,Burr Pond,41.869078,-73.096058,Beach
+15898,Schreeder Pond,41.3692,-72.589,Beach
+15899,Schreeder Pond,41.3699,-72.5899,Beach
+15900,Chatfield Hollow Brook,41.372873,-72.592586,Beach
+15902,Day Pond,41.5579,-72.4196,Beach
+15903,Day Pond,41.5581,-72.42,Beach
+15904,Blackledge River,41.7238,-72.4467,Beach
+15905,Blackledge River,41.7244,-72.4463,Beach
+15906,Blackledge River,41.7264,-72.447,Beach
+15907,Hammonasset SP beach,41.2495,-72.5464,Beach
+15908,Hammonasset SP beach,41.2564,-72.5537,Beach
+15909,NNT to Toms Creek,41.2677,-72.5677,Beach
+15911,Hammonasset SP beach,41.2595,-72.5576,Beach
+15912,Hammonasset SP beach,41.2669,-72.5683,Beach
+15913,Hammonasset SP beach,41.263,-72.5628,Beach
+15914,Pachaug River,41.6069,-71.9266,Beach
+15915,Pachaug River,41.6076,-71.9272,Beach
+15916,Housatonic River,41.3443,-73.1249,Beach
+15917,Housatonic River,41.3431,-73.1242,Beach
+15922,Lake Waramaug,41.7079,-73.3832,Beach
+15923,Lake Waramaug,41.7078,-73.3832,Beach
+15927,Mount Tom Pond,41.6974,-73.2803,Beach
+15928,Mount Tom Pond,41.6976,-73.2801,Beach
+15929,Green Fall Pond,41.5324,-71.8096,Beach
+15930,Green Fall Pond,41.535386,-71.81012,Beach
+15931,Quaddick Reservoir,41.9536,-71.8154,Beach
+15932,Quaddick Reservoir,41.9539,-71.8155,Beach
+15935,Rocky Neck SP beach,41.3004,-72.2372,Beach
+15936,Rocky Neck SP beach,41.3004,-72.2388,Beach
+15937,Rocky Neck SP beach,41.3001,-72.2413,Beach
+15938,Rocky Neck SP beach,41.2992,-72.2437,Beach
+15940,Sherwood Island SP beach,41.1149,-73.3223,Beach
+15941,Sherwood Island SP beach,41.1122,-73.3273,Beach
+15942,Sherwood Island SP beach,41.1113,-73.3375,Beach
+15943,Squantz Pond,41.512,-73.4765,Beach
+15944,Squantz Pond,41.5122,-73.476,Beach
+15945,Great Creek,41.2,-73.0644,Beach
+15946,Great Creek,41.2007,-73.0656,Beach
+15947,Silver Sands SP beach,41.1998,-73.0645,Beach
+15948,Silver Sands SP beach,41.1995,-73.0649,Beach
+15949,Silver Sands SP beach,41.1987,-73.0651,Beach
+15950,Silver Sands SP beach,41.197577,-73.065115,Beach
+15951,Stratton Brook,41.8655,-72.8353,Beach
+15952,Stratton Brook,41.8653,-72.835,Beach
+15953,Wadsworth Falls State Park Swimming Pond,41.5355,-72.6855,Beach
+15954,Wadsworth Falls State Park Swimming Pond,41.5352,-72.6857,Beach
+16354,Gardner Lake,41.501339,-72.225086,Beach
+16355,Gardner Lake,41.501538,-72.224356,Beach
+17604,Bride Brook,41.30268,-72.2402,Beach
+17750,Coginchaug River,41.534049,-72.686571,Beach
+17249,A4,40.8725,-73.734167,LIS
+17250,B3,40.918333,-73.642833,LIS
+17251,C1,40.955833,-73.580333,LIS
+17252,C2,40.984333,-73.502167,LIS
+17253,D3,40.993833,-73.411333,LIS
+17254,9,41.070833,-73.336167,LIS
+17255,E1,41.019333,-73.291333,LIS
+17256,15,40.931333,-73.221167,LIS
+17257,F2,41.080333,-73.165333,LIS
+17258,F3,41.017833,-73.1445,LIS
+17259,H2,41.178,-72.9605,LIS
+17260,H4,41.101667,-72.934,LIS
+17261,H6,41.026,-72.9135,LIS
+17262,I2,41.1375,-72.655,LIS
+17263,J2,41.182,-72.457667,LIS
+17264,K2,41.234333,-72.265833,LIS
+17265,M3,41.237167,-72.053333,LIS
+17217,1,40.963333,-73.623667,LIS
+17218,2,40.934667,-73.600667,LIS
+17219,3,40.979333,-73.560667,LIS
+17220,4,40.937833,-73.519333,LIS
+17221,5,41.009333,-73.513667,LIS
+17222,6,40.961167,-73.476667,LIS
+17223,7,40.950333,-73.425333,LIS
+17224,8,41.040833,-73.418,LIS
+17225,10,40.951667,-73.3325,LIS
+17226,12,41.108667,-73.253,LIS
+17227,13,41.058333,-73.234333,LIS
+17228,14,40.9915,-73.218833,LIS
+17229,16,41.120333,-73.1625,LIS
+17230,18,41.122333,-73.09,LIS
+17231,19,41.055333,-73.080833,LIS
+17232,20,40.994,-73.042333,LIS
+17233,21,41.164,-73.014833,LIS
+17234,22,41.082333,-73.022833,LIS
+17235,23,41.140167,-72.948833,LIS
+17236,25,40.981,-72.918167,LIS
+17237,26,41.209167,-72.9085,LIS
+17238,27,41.158667,-72.8495,LIS
+17239,28,41.078167,-72.8335,LIS
+17240,29,41.2315,-72.829667,LIS
+17241,30,41.196333,-72.775333,LIS
+21042,Esker Point West,41.31776,-72.00288,LIS
+16154,Wononscopomuc Lake,41.9553,-73.4448,Lake
+15631,Pachaug Pond,41.5816,-71.9266,Lake
+15870,Squantz Pond,41.5115,-73.4728,Lake
+16349,Hatch Pond,41.6835,-73.4777,Lake
+18201,Columbia Lake,41.711559,-72.330422,Lake
+18202,Quinebaug Pond,41.775056,-71.888179,Lake
+18271,Lower Bolton Lake,41.801118,-72.435286,Lake
+18376,Long Meadow Pond NLA2012 Deep Hole,41.65365,-73.210217,Lake
+18377,Messerschmidt Pond,41.33891,-72.48376,Lake
+18929,Beachdale Pond,41.5793,-71.86052,Lake
+18948,Stillwater Pond,41.83487,-73.14888,Lake
+14683,Lake Lillinonah,41.4793,-73.3495,Lake
+15675,Lake Beseck,41.517,-72.729,Lake
+Needs-BPP,Batterson Park Pond,41.71049,-72.78725,Lake
+Needs-BP,Ball Pond,41.462953,-73.523721,Lake
+18475,Lower Bolton Lake,41.798303,-72.428591,Lake
+18713,Housatonic River,41.424144,-73.206937,Lake
+18770,Lake Pocotopaug,41.59064,-72.506485,Lake
+Needs-LP,Long Pond,41.44948,-71.94939,Lake
+Needs-QL1,Quonnipaug Lake,41.39256,-72.69741,Lake
+Needs-QL2,Quonnipaug Lake,41.39256,-72.69741,Lake
+19918,Housatonic River,41.343441,-73.124386,Lake
+20083,Glasgo Pond,41.558239,-71.886804,Lake
+20215,Uncas Lake,41.372832,-72.322231,Lake
+20254,Rainbow Reservoir,41.91411,-72.70472,Lake
+20274,Pachaug Pond,41.582845,-71.928841,Lake
+20396,Bantam Lake,41.693729,-73.231325,Lake
+20414,Lake Zoar,41.427688,-73.236089,Lake
+20415,Coventry (Wangumbaug) Lake Boat Launch,41.765319,-72.309495,Lake
+20419,Middle Bolton Lake,41.819467,-72.423353,Lake
+20768,Dooley Pond,41.512951,-72.666611,Lake
+20916,Avery Pond,41.495651,-71.979631,Lake
+21051,Housatonic River,41.340675,-73.124116,Lake
+21054,Lake Lillinonah,41.459772,-73.324789,Lake
+21055,Roseland Lake,41.953414,-71.955677,Lake
+Needs-RL,Roseland Lake,41.953414,-71.955677,Lake
+Needs-AL,Ashford Lake,41.897874,-72.126413,Lake
+14470,Tankerhoosen River,41.8272,-72.464,Biological
+15499,West Branch Salmon Brook,41.94096,-72.834302,Biological
+15796,Pendleton Hill Brook,41.4748,-71.8342,Biological
+16139,Brown Brook,41.9267,-73.2799,Biological
+15036,Chestnut Brook,41.9145,-72.5472,Chem Only
+17305,Broad Brook,41.9364,-72.4521,Chem Only
+17574,Creamery Brook,41.9256,-72.5082,Chem Only
+17955,Broad Brook,41.91539,-72.48455,Chem Only
+17956,Kimballs Brook,41.914,-72.453,Chem Only
+17957,Muddy Brook,41.917,-72.481,Chem Only
+14147,Broad Brook,41.9147,-72.549,Biological
+18411,Pequonnock River,41.312047,-73.2449,Biological
+21056,Chase Brook,41.58932,-73.02229,Biological
+21057,Durkee Brook,41.88437,-71.92908,Biological
+21058,East Mountain Brook,41.86376,-72.99147,Biological
+21059,Fry Brook,41.67616,-71.91183,Biological
+21060,Mill River,41.37678,-72.90627,Biological
+21061,NNT to Rockadundee Brook,42.0247,-72.37633,Biological
+21062,Nonnewaug River,41.61195,-73.17218,Biological
+21063,Noroton River,41.08533,-73.51582,Biological
+21064,Salmon River,41.52977,-72.46978,Biological
+21065,Sandy Brook,41.97714,-73.04454,Biological
+21066,Tankerhoosen River,41.81939,-72.5028,Biological
+14456,Steele Brook,41.5805,-73.0703,Chem Only
+14799,Steele Brook,41.6042,-73.1127,Chem Only
+14800,Steele Brook,41.6105,-73.1153,Chem Only
+15131,Steele Brook,41.586,-73.077,Chem Only
+14314,Natchaug River,41.8008,-72.1182,Biological
+14341,Naugatuck River,41.7891,-73.1145,Biological
+14441,Salmon River,41.5742,-72.4294,Biological
+14442,Sandy Brook,41.974,-73.0406,Biological
+16114,Rugg Brook,41.9328,-73.1214,Biological
+16119,Day Pond Brook,41.5623,-72.4338,Biological
+16124,Flat Brook,41.938249,-73.321123,Biological
+16128,Stonehouse Brook,41.7812,-72.1509,Biological
+20636,"Nonewaug River, NNT to",41.6344,-73.16997,Biological
+15015,Seth Williams Brook,41.4399,-71.9741,Biological
+20460,Safford Brook,41.935217,-72.048726,Biological
+18981,Lyman Brook,41.63271,-72.45228,Biological
+20922,Kettle Creek,41.18994,-73.3703,Biological
+19807,Paulk Hill Brook,41.869345,-72.373284,Conductivity
+16840,Metcalf Brook,41.8417,-72.3664,Conductivity
+20801,Grapeville Brook,41.89645,-72.32619,Conductivity
+20857,East Branch Farmington River,41.867615,-72.954411,Temperature
+15680,Beaver Brook,41.9513,-72.9958,Temperature
+19838,Hop Brook Trib,41.74183,-72.50152,Temperature
+16913,"Chatfield Hollow Brook, tributary to",41.335825,-72.592364,Temperature
+17013,Rose Brook,41.4797,-72.0119,Temperature
+14568,Norwalk River,41.1978,-73.4356,Temperature
+14391,Pequabuck River,41.6681,-72.9208,Temperature
+16276,Latimer Brook,41.4375,-72.2253,Temperature
+17707,West River,41.364,-72.9794,Temperature
+15116,Branford River,41.3161,-72.7672,Temperature
+20023,Hammonasset River,41.339982,-72.613523,Temperature
+19240,Farm River,41.320175,-72.84583,Temperature
+14161,Copps Brook,41.3641,-71.9347,Temperature
+20922,Kettle Creek,41.189936,-73.370341,Temperature
+21056,Chase Brook,41.58932,-73.02229,Temperature
+21057,Durkee Brook,41.88437,-71.92908,Temperature
+21058,East Mountain Brook,41.86376,-72.99147,Temperature
+21059,Fry Brook,41.67616,-71.91183,Temperature
+21060,Mill River,41.37678,-72.90627,Temperature
+21061,NNT to Rockadundee Brook,42.0247,-72.37633,Temperature
+21062,Nonnewaug River,41.61195,-73.17218,Temperature
+21063,Noroton River,41.08533,-73.51582,Temperature
+18411,Pequonnock River,41.312047,-73.2449,Temperature
+21064,Salmon River,41.52977,-72.46978,Temperature
+21065,Sandy Brook,41.97714,-73.04454,Temperature
+21066,Tankerhoosen River,41.81939,-72.5028,Temperature
+16124,Flat Brook,41.938249,-73.321123,Temperature
+16127,Jakes Brook,41.864151,-73.167442,Temperature
+16119,Day Pond Brook,41.5623,-72.4338,Temperature
+14442,Sandy Brook,41.974,-73.0406,Temperature
+14390,Pequabuck River,41.6742,-72.9619,Temperature
+14461,Sandy Brook (Still River),41.9685,-73.0331,Conductivity
+14441,Salmon River,41.5742,-72.4294,Conductivity
+14880,Sages Ravine Brook,42.0495,-73.4301,Temperature
+14523,Burton Brook,41.9667,-73.4341,Temperature
+16387,Hurricane Brook,42.033,-72.9207,Temperature
+15240,Hubbard Brook,42.0356,-72.9384,Temperature
+17365,Farmington River,41.7842,-72.9234,Temperature
+16066,Farmington River,41.914,-72.765,Temperature
+15825,West Branch Farmington River,41.9168,-72.989,Temperature
+15795,Farmington River,41.8579,-72.9583,Temperature
+15792,West Branch Farmington River,41.9602,-73.0178,Temperature
+14197,Farmington River,41.7508,-72.8717,Temperature
+16370,Bunnell Brook,41.7807,-72.963,Temperature
+15964,Thompson Brook,41.7681,-72.8497,Temperature
+14584,Roaring Brook,41.904,-72.2891,Temperature
+15783,Eagleville Brook,41.7882,-72.2776,Temperature
+15304,Eagleville Brook,41.7938,-72.2752,Temperature
+15092,Fenton River,41.8335,-72.2429,Temperature
+15315,Burnhams Brook,41.4603,-72.3343,Temperature
+15020,Eightmile River,41.43,-72.3392,Temperature
+14129,Beacon Hill Brook,41.4684,-73.0501,Temperature
+15397,Silvermine River,41.1483,-73.443,Temperature
+14444,Saugatuck River,41.2945,-73.3948,Temperature
+16431,Sprain Brook,41.5696,-73.2259,Temperature
+15530,Weekeepeemee River,41.5575,-73.2155,Temperature
+14800,Steele Brook,41.6105,-73.1153,Temperature
+14456,Steele Brook,41.5805,-73.0703,Temperature
+14450,Shepaug River,41.5489,-73.3308,Temperature
+16335,Nonewaug River,41.5783,-73.1745,Temperature
+14392,Pequabuck River,41.6738,-72.8977,Temperature
+16110,Mott Hill Brook,41.6615,-72.5365,Temperature
+15520,Bonemill Brook,41.925,-72.3162,Temperature
+14147,Broad Brook,41.9147,-72.549,Temperature
+14720,Green Fall River,41.4568,-71.8169,Temperature
+14414,Quinnipiac River,41.4501,-72.8407,Temperature
+14451,Shetucket River,41.7002,-72.1823,Temperature
+14740,Quaker Brook,41.512349,-73.52695,Temperature
+14706,Whitford Brook,41.3928,-71.9604,Temperature
+16154,Wononscopomuc Lake,41.9553,-73.4448,Temperature
+14470,Tankerhoosen River,41.8272,-72.464,Temperature
+15499,West Branch Salmon Brook,41.94096,-72.834302,Temperature
+15796,Pendleton Hill Brook,41.4748,-71.8342,Temperature
+16139,Brown Brook,41.9267,-73.2799,Temperature
+14161,Copps Brook,41.3641,-71.9347,Stream Connectivity
+15091,Fenton River,41.8222,-72.2309,Stream Connectivity
+15116,Branford River,41.3161,-72.7672,Stream Connectivity
+15244,Cobble Brook,41.7217,-73.4572,Stream Connectivity
+15499,West Branch Salmon Brook,41.94096,-72.834302,Stream Connectivity
+15680,Beaver Brook,41.9513,-72.9958,Stream Connectivity
+15755,Copps Brook,41.3824,-71.9278,Stream Connectivity
+15796,Pendleton Hill Brook,41.4748,-71.8342,Stream Connectivity
+15801,Mount Hope River,41.8436,-72.1694,Stream Connectivity
+15854,Muddy River,41.4151,-72.8012,Stream Connectivity
+16139,Brown Brook,41.9267,-73.2799,Stream Connectivity
+16276,Latimer Brook,41.4375,-72.2253,Stream Connectivity
+16285,Beaver Brook,41.3617,-73.064,Stream Connectivity
+16583,Comstock Brook,41.2125,-73.4622,Stream Connectivity
+16709,Grimes Brook,41.8822,-72.8178,Stream Connectivity
+16913,NNT to Chatfield Hollow Brook,41.335825,-72.592364,Stream Connectivity
+17006,Roaring Brook,41.7153,-72.5061,Stream Connectivity
+17013,Rose Brook,41.4797,-72.0119,Stream Connectivity
+17534,Bride Brook,41.32329,-72.24194,Stream Connectivity
+17542,Bride Brook,41.32269,-72.24241,Stream Connectivity
+17707,West River,41.364,-72.9794,Stream Connectivity
+18533,Chester Creek,41.409183,-72.47259,Stream Connectivity
+18720,East Branch Eightmile River,41.42763,-72.33381,Stream Connectivity
+19022,Comstock Brook,41.204447,-73.447964,Stream Connectivity
+19240,Farm River,41.320175,-72.84583,Stream Connectivity
+19657,Bunnell Brook,41.786255,-72.964622,Stream Connectivity
+19838,NNT to Hop Brook,41.74183,-72.50152,Stream Connectivity
+20023,Hammonasset River,41.339982,-72.613523,Stream Connectivity
+20059,Race Brook,41.30342,-73.01678,Stream Connectivity
+20153,Bunnell Brook,41.783449,-72.962892,Stream Connectivity
+20245,Race Brook,41.294617,-73.024703,Stream Connectivity
+20623,Misery Brook,41.582016,-72.860881,Stream Connectivity
+20800,Whigville Brook,41.73375,-72.94402,Stream Connectivity
+20813,Farmington River,41.900358,-72.686301,Stream Connectivity
+20857,East Branch Farmington River,41.867615,-72.954411,Stream Connectivity
+21033,Menunketesuck River,41.323581,-72.523094,Stream Connectivity

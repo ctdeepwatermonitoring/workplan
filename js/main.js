@@ -26,17 +26,17 @@ const map = new mapboxgl.Map({
             }
         ]
     },
-    center: [-72.65, 41.55], // starting position
+    center: [-72.65, 41.48], // starting position
     zoom: 8.5 // starting zoom
 });
 
 map.on('load', () => {
 
     // request GEOJSON data
-    d3.json('./data/wpSites24.geojson').then((data) => {
+    d3.json('./data/wpSites26.geojson').then((data) => {
         // when loaded
 
-        const wpData = d3.json('./data/wpSites24.geojson');
+        const wpData = d3.json('./data/wpSites26.geojson');
         const stateBoundaryData = d3.json('./data/ctStateBoundary.geojson');
 
         Promise.all([wpData,stateBoundaryData]).then(addLayer);
@@ -138,13 +138,14 @@ function addPopup(layer){
                             e.features[0].properties.staSeq+ ")</b></br>"+
                             "<b>Sampled for Project</b>" +
                             "</br><b>No/Yes (0/1):</b>" +
+                            "</br>LIS: "+ e.features[0].properties['LIS'] +
                             "</br>Beach: "+ e.features[0].properties['Beach'] +
                             "</br>Chem Only: "+ e.features[0].properties['Chem Only'] +
                             "</br>Conductivity: "+ e.features[0].properties['Conductivity'] +
                             "</br>Lake: "+ e.features[0].properties['Lake'] +
-                            "</br>Stream Bio: "+ e.features[0].properties['Stream Bio'] +
+                            "</br>Stream Biological: "+ e.features[0].properties['Biological'] +
                             "</br>Temperature: "+ e.features[0].properties['Temperature'] +
-                            "</br>Trail Cam: "+ e.features[0].properties['Trail Cam'];
+                            "</br>Stream Connectivity: "+ e.features[0].properties['Stream Connectivity'];
 
         // When a hover event occurs on a feature,
         // open a popup at the location of the hover, with description
